@@ -1,0 +1,12 @@
+{
+  "best_distance": 78,
+  "history": [
+    {
+      "utc": "2026-11-13T21:20:09Z",
+      "distance": 78,
+      "tries": 45000000,
+      "seconds": 12.0
+    }
+  ],
+  "best_candidate": "dee81641d720bbfe7a4a06c58ac04e8901976991ac59ec5c926f030000000000"
+}
